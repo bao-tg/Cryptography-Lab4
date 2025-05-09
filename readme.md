@@ -2,8 +2,7 @@
 
 This is the lab 4, web attacks, for the course Cryptography, at VinUniversity, Spring 25.
 
-The report is stored in the file:
-
+The [report](Lab4%20-%20Lab.pdf).
 
 
 # Getting started
