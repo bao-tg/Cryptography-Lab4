@@ -1,6 +1,6 @@
 # Introduction
 
-This is the lab 4, web attacks, for the course Cryptography, at VinUniversity, Spring 25.
+This is the lab 4, web attacks, for the course Cyber Security, at VinUniversity, Spring 25.
 
 The [report](Lab4%20-%20Lab.pdf).
 
